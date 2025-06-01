@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author _ Mainuddin Sekh
+author _ Mainuddin Sekh Jamal
